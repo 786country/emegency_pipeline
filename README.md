@@ -45,7 +45,7 @@ The files are the following:
 ## 4. Project Challenges 
 
 The main challenge with the dataset was the training time, the datasets large size coupled with the multiple models required (36). This was especially hard for grid search as the different permutations of models made the training time quite long. 
-### Instructions:
+## 5.Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
