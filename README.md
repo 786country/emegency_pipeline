@@ -1,5 +1,6 @@
 # Disaster Response Pipeline Project
 
+Location: https://github.com/786country/emegency_pipeline
 ## 1. Installation 
 
 The anaconda distribution of python will cover most packages, however the following package(s) will be required to be installed: 
